@@ -26,3 +26,6 @@ TODO
 
 [1]: https://www.java.com/
 [2]: https://maven.apache.org/
+
+## IA
+L'IA Claude Sonnet5 a été utilisée seulement lors de la mise en place du projet (installation, configuration de JavaFX) ainsi que pour de la réflexion sur la structure du projet, aucun code n'a été demandé
